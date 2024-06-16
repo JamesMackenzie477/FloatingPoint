@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1525808551 source:d:\projects\c\floatingpoint\main.c
+	<stdio.h>
+	<stdlib.h>
+
